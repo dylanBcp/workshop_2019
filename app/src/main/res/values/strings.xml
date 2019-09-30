@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="bienvenue_sur_notre_application_bla_bla_bla">Bienvenue sur notre application bla bla bla</string>
+    <string name="logo">logo</string>
+    <string name="Cest_parti" />
+    <string name="cest_parti">C\'est Parti</string>
+    <string name="title_activity_login">Sign in</string>
+</resources>
